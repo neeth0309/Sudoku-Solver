@@ -25,6 +25,8 @@ The Sudoku Solver program solves Sudoku puzzles by filling in the empty cells of
 2. **Navigate to the Repository:**
    ```bash
    cd Sudoku-Solver
+   ```
+   ```bash
    code .
 3. **Compile the Code:**
    ```bash
