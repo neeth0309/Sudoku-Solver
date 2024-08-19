@@ -20,7 +20,7 @@ The Sudoku Solver program solves Sudoku puzzles by filling in the empty cells of
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/neethu2365/Sudoku-Solver.git
+   git clone https://github.com/neethu0309/Sudoku-Solver.git
 
 2. **Navigate to the Repository:**
    ```bash
